@@ -1,6 +1,6 @@
 
 package jurnal2;
-
+//ini sudah di edit di branch update ketupat
 public class Jurnal2 {
 
     public static void main(String[] args) {
